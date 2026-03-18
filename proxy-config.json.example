@@ -1,0 +1,22 @@
+[
+  {
+    "listenPort": 4000,
+    "target": "url1",
+    "name": "name1"
+  },
+  {
+    "listenPort": 4001,
+    "target": "url2",
+    "name": "name2"
+  },
+  {
+    "listenPort": 4002,
+    "target": "url3",
+    "name": "name3"
+  },
+  {
+    "listenPort": 4003,
+    "target": "url4",
+    "name": "name4"
+  }
+]
